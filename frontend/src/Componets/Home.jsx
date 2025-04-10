@@ -2,12 +2,12 @@ import React from 'react'
 import "../App.css"
 const Home = () => {
     return (
-        <div>
-            <h1 className='text-red-700'>Home</h1>
-            <div className="card w-[18rem] h-40 ms-5 shadow-4xl">
-                
-            </div>
-        </div>
+        <div className="h-20 w-20 border-red-500 border-2 border-dotted rounded-full animate-spin duration-900 custom-spin 2s linear infinite;
+ flex items-center justify-center">
+   
+      </div>
+
+      
     )
 }
 
